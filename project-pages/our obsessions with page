@@ -1,15 +1,5 @@
 
 
-<!-- 
-  IMPORTANT! 
-  
-  Keep this file unchanged to use as a template for all future project pages. 
-
-  For every new project you add to your portfolio, make a copy of this file in the
-  'project-pages' folder with a name related to the project.
--->
-
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -44,13 +34,13 @@
 
           (this should be the same across all pages)
          -->
-        <span class="nav-title">Portfolio Title</span>
+        <span class="nav-title">madi wise</span>
         <!-- 
           TODO - Change the email after 'mailto:' to your email address for contact 
         
           (this should be the same across all pages)
         -->
-        <a class="button" href="mailto:whitevans.eth@gmail.com">
+        <a class="button" href="mailto:madisonwise264@gmail.com">
           <span class="button-text">Contact Me</span>
         </a>
       </a>
@@ -68,8 +58,8 @@
             - Change the 'body-text' text to a short and sweet description of your project (maybe the same as the one on the project card)
             - Change "desktop.jpeg" to the image filename you uploaded in the assets/images folder.
           -->
-        <div class="main-title">Project Name</div>
-        <div class="body-text">A small description about the project goes here, get the reader hooked on the project and tell them why they should continue to read this page. Give it a sweet tagline.</div>
+        <div class="main-title">/our obsessions with/</div>
+        <div class="body-text">visual exploration of our obsessions—whether it’s love, time, consumerism, or the things we cling to</div>
         <image class="project-header-image" src="../assets/images/desktop.jpeg">
       </div>
 
@@ -80,18 +70,11 @@
         - Change the 'subheader-text' to whatever header you want for project details
         - Add paragraphs using the <div class="body-text"></div> elements in the "project-details-content"
       -->
-      <div id="project-details">
-        <div class="subheader-text">Project Details / Background</div>
-        <div class="project-details-content">
-          <div class="body-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique risus nec feugiat in fermentum. Sed id semper risus in hendrerit gravida. Placerat duis ultricies lacus sed. Id neque aliquam vestibulum morbi blandit cursus risus. Elit pellentesque habitant morbi tristique senectus et netus et. Elementum tempus egestas sed sed risus pretium quam. Nibh ipsum consequat nisl vel pretium lectus quam id leo. Vitae congue mauris rhoncus aenean vel elit.</div>
-          <div class="body-text">Vitae justo eget magna fermentum. Imperdiet nulla malesuada pellentesque elit eget gravida. Aliquet nec ullamcorper sit amet. Aliquet sagittis id consectetur purus. Ac tortor dignissim convallis aenean. Enim neque volutpat ac tincidunt vitae. Lobortis feugiat vivamus at augue. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Viverra orci sagittis eu volutpat. Massa tincidunt nunc pulvinar sapien et ligula. Donec enim diam vulputate ut.</div>
-        </div>
-      </div>
 
       <!-- IMAGE GALLERY -->
       <div id="project-gallery">
         <!-- TODO - Change the 'subheader-text' to whatever you want the Gallery section header to say -->
-        <div class="subheader-text">Image Gallery</div>
+        <div class="subheader-text"></div>
         <div class="project-gallery-content">
             <!-- 
               TODO
